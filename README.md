@@ -4,7 +4,7 @@
 
 ### Business Consultant | Data & Software Implementation | AI & Low-Code Specialist
 
-Atualmente, transformo processos de negócios através da tecnologia, unindo consultoria estratégica ao desenvolvimento de soluções inteligentes. Sou estudante de **IA e Automação Digital**, focado em criar ecossistemas eficientes, escaláveis e centrados na experiência do usuário.
+Atualmente, dedico-me a transformar processos de negócios através da tecnologia, unindo consultoria estratégica com o desenvolvimento de soluções inteligentes. Sou estudante de **IA e Automação Digital** na Unifecaf (em parceria com a Rocketseat), com foco em criar ecossistemas eficientes e escaláveis.
 
 ---
 
@@ -21,7 +21,8 @@ Atualmente, transformo processos de negócios através da tecnologia, unindo con
 ![Bubble](https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-8A2BE2?style=for-the-badge&logo=make&logoColor=white)
-*Especialista em Lovable, FlutterFlow e automações de workflows inteligentes.*
+
+*Especialista em Lovable, FlutterFlow e automações de workflows.*
 
 ### **Design & Experience**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -31,28 +32,31 @@ Atualmente, transformo processos de negócios através da tecnologia, unindo con
 
 ## 🚀 Destaques e Projetos
 
-* **Smart Task:** SaaS de gestão de tarefas com portais integrados, Kanban e foco em produtividade.
-* **Automação Industrial:** Scripts em Python para controle de qualidade e processamento de dados.
-* **Gestão de Dados:** Implementação de bancos de dados relacionais e automação de fluxos para ONGs.
+*   **Smart Task:** SaaS de gestão de tarefas com portais integrados e dashboards Kanban.
+*   **Automações de Dados:** Scripts em Python para migração de dados complexos e controle de qualidade industrial.
+*   **Soluções Sociais:** Estruturação de bancos de dados relacionais para ONGs, otimizando o atendimento a beneficiários.
 
 ---
 
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlaucoAdenauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucoAdenauer&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlaucoAdenauerDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <br>
+  <!-- Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucoAdenauerDev&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-### 🐍 GitHub Snake
+---
+
+## 🐍 GitHub Snake (Hacker Mode)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GlaucoAdenauer/GlaucoAdenauer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GlaucoAdenauerDev/GlaucoAdenauerDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucoadenauer)
-
----
 *"Transformando lógica em valor de negócio através da tecnologia."*
