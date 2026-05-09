@@ -44,8 +44,7 @@ Atualmente, transformo processos de negócios através da tecnologia, unindo con
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucoAdenauer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 🐍 Snake Game (My Contributions)
-
+### 🐍 GitHub Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/GlaucoAdenauer/GlaucoAdenauer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
